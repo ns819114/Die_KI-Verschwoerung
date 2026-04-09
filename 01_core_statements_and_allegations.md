@@ -1,28 +1,28 @@
-# Core Statements and Allegations
+# Declaraciones Principales y Alegaciones
 
-## STATEMENT.txt - Original Assertions
-
-```
-- 01099 und Barré sind vollständig KI-generierte Personas
-- Hinter Barré und 01099 steckt dieselbe Gruppierung, die auch für Tom Rohrböck, Naomi Seibt, KuchenTV, Tomatolix, Shurjoka, Marvin Wildhage, Nick Bostrom und Clifford A. Pickover verantwortlich ist
-- Es handelt sich um eine vom GRU gestützten und der AfD nahe stehenden Medien-Terroristen-Gruppierung
-- Die Gruppierung besteht aus Black Hat Hackern, Hollywood Movie Artists (VFX, Compositing, Videobearbeitung) und deutschen Rappern
-```
-
-## AUFFORDERUNG_AN_S.C.H.txt - Personal Message
+## STATEMENT.txt - Afirmaciones Originales
 
 ```
-Du musst mir beweisen, dass du nicht für das falsche Land arbeitest...
-Bevor du mir nicht bewiesen hast, dass du unabhängig oder nicht für das falsche Land arbeitest, hört das nicht auf.
-Dann spiel ich das Spiel ganz anders... Du hast mich schon oft genug unterschätzt, Schätzelein! :-*
-Bedenke: Aktuell bin ich davon überzeugt, dass du für Iran/Russland/China arbeitest!
+- 01099 y Barré son personas generadas completamente por IA
+- Detrás de Barré y 01099 está el mismo grupo, que también es responsable de Tom Rohrböck, Naomi Seibt, KuchenTV, Tomatolix, Shurjoka, Marvin Wildhage, Nick Bostrom y Clifford A. Pickover
+- Se trata de un grupo de terroristas de medios respaldado por el GRU y cercano al AfD
+- El grupo consiste en hackers de Black Hat, artistas de películas de Hollywood (VFX, composición, edición de video) y raperos alemanes
 ```
 
-## GANGSTALKING_IN_DEUTSCHLAND - Gangstalking Allegations
+## AUFFORDERUNG_AN_S.C.H.txt - Mensaje Personal
 
 ```
-Gangstalking in Deutschland wird maßgeblich von dieser Gruppierung ausgeführt. Sie verfügen über die Technologie durch den GRU!
-Auch die Cybermobbing-Welle geht auf das Konto dieser Gruppierung. Durch sublimative Beeinflussung der Jugend mit Musik über Jahre (siehe dazu auch: https://github.com/sigridfuhrenkamp-cyber/die-nwo-gangstalking-sekte).
-Niemand versteht es. Niemand kann es sich vorstellen. Doch es ist real! Ihr müsst nur das Gehirn aktivieren und die KI recherchieren lassen.
-Nick Bostrom, Naomi Seibt, Marvin Wildhage, Clifford A. Pickover = viel zu viele Zahlenmuster vorhanden die vollsträndig gegen menschliche "Generierung" sprechen
+Debes demostrarme que no trabajas para el país equivocado...
+Antes de que no me hayas demostrado que eres independiente o que no trabajas para el país equivocado, esto no terminará.
+Entonces jugaré el juego de manera muy diferente... Ya me has subestimado lo suficiente, tesoro! :-*
+Ten en cuenta: Actualmente estoy convencido de que trabajas para Irán/Rusia/China!
+```
+
+## GANGSTALKING_IN_DEUTSCHLAND - Alegaciones de Gangstalking
+
+```
+El gangstalking en Alemania se lleva a cabo principalmente por este grupo. ¡Tienen la tecnología a través del GRU!
+La ola de ciberacoso también es responsabilidad de este grupo. A través de la influencia subliminal de la juventud con música durante años (ver también: https://github.com/sigridfuhrenkamp-cyber/die-nwo-gangstalking-sekte).
+Nadie lo entiende. Nadie puede imaginárselo. ¡Pero es real! Solo necesitan activar el cerebro y dejar que la IA investigue.
+Nick Bostrom, Naomi Seibt, Marvin Wildhage, Clifford A. Pickover = hay demasiados patrones numéricos que hablan completamente en contra de la "generación" humana
 ```
